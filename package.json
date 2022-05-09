@@ -1,0 +1,23 @@
+{
+  "name": "withastro-compiler-bug-2022-05",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ota-meshi/withastro-compiler-bug-2022-05.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ota-meshi/withastro-compiler-bug-2022-05/issues"
+  },
+  "homepage": "https://github.com/ota-meshi/withastro-compiler-bug-2022-05#readme",
+  "dependencies": {
+    "@astrojs/compiler": "^0.14.2"
+  }
+}
